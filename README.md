@@ -3,7 +3,7 @@
 ## A Rendszer Célja
 
 Ez a projekt egy fejlett, AI-alapú parancsautomatizálási rendszert valósít meg, amely képes:
-- AI asszisztensek (ChatGPT, Github Copilot) üzeneteiből parancsokat detektálni
+- AI asszisztensek (ChatGPT) üzeneteiből parancsokat detektálni
 - A parancsokat biztonságosan végrehajtani WebSocket kommunikáción keresztül
 - Az eredményeket visszajuttatni az AI asszisztensnek
 - A végrehajtást naplózni és újrajátszani
